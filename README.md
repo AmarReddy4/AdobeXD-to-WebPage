@@ -1,10 +1,23 @@
-# AdobeXD-to-WebPage
-From an input AdobeXD source, built my first WebSite.
+# AdobeXD to WebPage
 
-This is a Mobile-first Responsive Web site.
+A mobile-first responsive blog website ("Living the Social Life") built from an Adobe XD design mockup. Features a homepage, about page, and recent posts page with a sidebar layout.
 
+## Pages
 
-AdobeXD URL:
+- **Home** (`index.html`) -- Featured and recent blog articles with sidebar
+- **About Me** (`about-me.html`) -- Author bio
+- **Recent Posts** (`recent-posts.html`) -- Archive of posts
 
-Living a Simple Life:
-https://xd.adobe.com/spec/75d448ea-569a-4b7e-721b-9bbd3b2b97b9-03e5/grid
+## Design Source
+
+[Adobe XD Spec](https://xd.adobe.com/spec/75d448ea-569a-4b7e-721b-9bbd3b2b97b9-03e5/grid)
+
+## Tech Stack
+
+- HTML, CSS
+- Mobile-first responsive design using Flexbox
+- Google Fonts (Lora, Ubuntu)
+
+## How to Run
+
+Open `index.html` in any web browser.
